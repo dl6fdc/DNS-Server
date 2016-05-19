@@ -1,0 +1,10 @@
+com	<The IP address of your second layer server>
+edu	<The IP address of your second layer server>
+gov	<The IP address of your second layer server>
+mil	<The IP address of your second layer server>
+net	<The IP address of your second layer server>
+org	<The IP address of your second layer server>
+cn	<The IP address of your second layer server>
+uk	<The IP address of your second layer server>
+jp	<The IP address of your second layer server>
+us	<The IP address of your second layer server>
